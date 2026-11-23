@@ -1,4 +1,4 @@
-# 🪓 [Nom de votre jeu] – Projet Timber SFML 3.1
+# 🪓 – Projet Timber SFML 3.1
 
 Version enrichie, modulaire et personnalisée du jeu d'arcade classique **Timber**, réalisée en **C++** avec la bibliothèque multimédia **SFML 3.1** dans le cadre du cours **INFO4006 – Multimédia**.
 
